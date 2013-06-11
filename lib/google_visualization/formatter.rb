@@ -1,4 +1,4 @@
-module Google
+class Google
   module Visualization
     
     ##

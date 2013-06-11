@@ -1,6 +1,6 @@
 require 'json'
 
-module Google
+class Google
   module Visualization
     module Formatter
       

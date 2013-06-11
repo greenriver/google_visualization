@@ -17,7 +17,7 @@ require 'google_visualization/formatter/csv'
 #
 # Contains the Visualization module.
 #
-module Google
+class Google
 
   ##
   # = Visualization

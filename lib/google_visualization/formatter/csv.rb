@@ -1,6 +1,6 @@
 require 'csv'
 
-module Google
+class Google
   module Visualization
     module Formatter
       
